@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@next/third-parties": "^16.0.10",
+    "next": "^16.0.10",
+    "rss-parser": "^3.13.0"
+  }
+}
